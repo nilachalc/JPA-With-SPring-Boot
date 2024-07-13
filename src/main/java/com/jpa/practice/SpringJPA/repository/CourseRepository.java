@@ -84,7 +84,7 @@ public class CourseRepository {
 	public void testingEntityManager() {
 		//persist-D (Adds the new object to the persistence context and update the DB after flush, Void method)
 		//merge-D (return the reference of the object added to the persistence context)
-		//flush-D (works as like commit, Void method)
+		//flush-D (works like commit, Void method)
 		//detach-D (detaches object from the persistence context, Void method)
 		//clear-D (detaches all the objects from the persistence context, Void method)
 		//refresh-D (refresh the object with DB value, Void method)
