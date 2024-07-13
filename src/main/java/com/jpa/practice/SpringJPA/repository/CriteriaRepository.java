@@ -12,8 +12,6 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.jpa.practice.bean.Course;
-import com.jpa.practice.bean.Passport;
-import com.jpa.practice.bean.Student;
 
 @Repository
 @Transactional
